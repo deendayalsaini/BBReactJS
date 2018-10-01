@@ -1,0 +1,11 @@
+.fixedHeader_collapsetree thead, .fixedHeader_collapsetree tbody {
+    display: block;
+}
+.fixedHeader_collapsetree thead, .fixedHeader_collapsetree tbody {
+  box-shadow: 0 0.25em 0.1em -0.1em  #e7ecf1;
+}
+
+.FIXEDHEADERCLASS tr > th {
+padding-top: 12px !important;
+   border-bottom : 0 solid #e7ecf1 !important;
+}

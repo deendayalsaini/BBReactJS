@@ -1,0 +1,38 @@
+.CPClass
+{
+  cursor: pointer;
+  text-align: center;
+}
+.CPTD1
+{
+  color:black;min-height:50px;line-height:35px !important;display:block;
+  text-align: center;
+
+}
+
+.CP_D
+{
+   background-color:rgb(255,177,177);
+   border-bottom:1px solid #FFF;  border-left:1px solid #FFF;
+  border-top:1px solid #FFF;
+}
+.CP_E
+{
+  background-color:rgb(246,210,180);
+border-bottom:1px solid #FFF;  border-left:1px solid #FFF;
+}
+.CP_VH
+{
+  background-color:rgb(243,223,222);
+border-bottom:1px solid #FFF;  border-left:1px solid #FFF;
+}
+.CP_H
+{
+  background-color:rgb(253,235,220);
+ border-bottom:1px solid #FFF;  border-left:1px solid #FFF;
+}
+.CP_L
+{
+  background-color:rgb(255,255,177);
+  border-left:1px solid #FFF;
+}

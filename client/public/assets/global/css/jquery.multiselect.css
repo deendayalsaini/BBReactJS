@@ -1,0 +1,162 @@
+
+.ms-options-wrap, .ms-options-wrap * {
+    box-sizing: border-box;
+}
+.ms-options-wrap > button:focus, .ms-options-wrap > button {
+    background-color: #fff;
+    border: 1px solid #aaa;
+    color: #aaa;
+    font-size: 12px;
+    margin-top: 1px;
+    outline: medium none;
+    padding: 4px 14px 4px 4px;
+    position: relative;
+    text-align: left;
+    white-space: nowrap;
+    width: 100%;
+}
+.ms-options-wrap > button::after {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #999 rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
+    border-image: none;
+    border-style: solid;
+    border-width: 6px;
+    content: " ";
+    height: 0;
+    margin-top: -3px;
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    width: 0;
+}
+.ms-options-wrap > .ms-options {
+    background: white none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    left: 0;
+    margin-bottom: 20px;
+    margin-top: 1px;
+    position: absolute;
+    width: 250%;
+    z-index: 2000;
+}
+.ms-options-wrap > .ms-options > .ms-search input {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: currentcolor;
+    border-image: none;
+    border-style: none none groove;
+    border-width: medium medium 1px;
+    outline: medium none;
+    padding: 4px 5px;
+    width: 100%;
+}
+.ms-options-wrap > .ms-options .ms-selectall {
+    display: inline-block;
+    font-size: 0.9em;
+    text-decoration: none;
+}
+.ms-options-wrap > .ms-options .ms-selectall:hover {
+    text-decoration: underline;
+}
+.ms-options-wrap > .ms-options > .ms-selectall.global {
+    margin: 4px 5px;
+}
+.ms-options-wrap > .ms-options > ul > li.optgroup {
+    padding: 5px;
+}
+.ms-options-wrap > .ms-options > ul > li.optgroup + li.optgroup {
+    border-top: 1px solid #aaa;
+}
+.ms-options-wrap > .ms-options > ul > li.optgroup .label {
+    display: block;
+    font-weight: bold;
+    padding: 5px 0 0;
+}
+.ms-options-wrap > .ms-options > ul label {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 1px 0;
+    padding: 4px;
+    position: relative;
+    width: 100%;
+}
+.ms-options-wrap > .ms-options > ul li.selected label {
+    background-color: #1e74c5;
+    color: white;
+}
+.ms-options-wrap > .ms-options > ul label:hover {
+    background-color: #efefef;
+}
+.ms-options-wrap > .ms-options > ul input[type="checkbox"] {
+    left: 4px;
+    margin-right: 5px;
+    position: absolute;
+    top: 7px;
+}
+.ms-options > ul li {
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+}
+.ms-options > ul li {
+    margin-left: -40px;
+}
+.ms-options-wrap > .ms-options > ul input[type="checkbox"] {
+    left: 0;
+    top: 3px;
+}
+.statistic-big .bottom {
+    margin-top: 5px;
+}
+.box .box-content {
+    background: #fff none repeat scroll 0 0;
+    padding: 10px;
+}
+.box .box-title {
+    padding: 0 0 0 3px;
+}
+.bootstrap-table .table td {
+    font-size: 12px;
+}
+.box.box-bordered .box-content {
+    border-width: 0 0.5px 0.5px;
+}
+.ms-options-wrap > .ms-options > ul li.selected label, .ms-options-wrap > .ms-options > ul label:hover {
+}
+.box .box-title .actions .btn {
+    padding: 5px 2px;
+}
+.btn {
+    padding: 4px 12px;
+}
+.form-control {
+    height: 30px;
+}
+.box.box-color.green .th-inner {
+    background: #339933 none repeat scroll 0 0;
+}
+.box.box-color.lightred .th-inner {
+    background: #e63a3a none repeat scroll 0 0;
+}
+.box.box-color.teal .th-inner {
+    background: #00aba9 none repeat scroll 0 0;
+}
+.box.box-color.lightgrey .th-inner {
+    background: #666666 none repeat scroll 0 0;
+}
+.box.box-color.brown .th-inner {
+    background: #a05000 none repeat scroll 0 0;
+}
+.topfilter {
+    margin-top: 15px;
+    padding-bottom: 0;
+}
+.topbottomwrap {
+    margin-top: -30px;
+}
