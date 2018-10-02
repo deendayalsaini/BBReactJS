@@ -2,4 +2,4 @@
 
 App : React component + React Routing code 
 
-Public: contains public CSS, JS and image files
+Public : contains public CSS, JS and image files
