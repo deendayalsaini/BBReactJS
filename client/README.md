@@ -1,4 +1,4 @@
-# BB-POC-Client 
+# Client 
 
 App : React component + React Routing code 
 
