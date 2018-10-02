@@ -1,7 +1,7 @@
 # Server
 
 - models : we have following mongooes schemas -> 
-   CorporateBondIssuer, IssuerCreditRisk, IssuerCreditRiskFullDetail, Spot_Forward, User and UserSession
+   CorporateBondIssuer, IssuerCreditRisk, IssuerCreditRiskFullDetail, Spot_Forward, User and UserSession.
   
 - routes : Contains API's code
 	
