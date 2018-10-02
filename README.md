@@ -2,7 +2,7 @@
 
 This is a  BB-POC project using the following technologies:
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
-- [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/) for the backend
+- [Express](http://expressjs.com/)  (Web Framework) and [Mongoose](http://mongoosejs.com/) for the backend
 - [Webpack](https://webpack.github.io/) for compilation
 
 
